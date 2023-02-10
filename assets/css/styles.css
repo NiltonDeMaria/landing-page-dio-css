@@ -25,18 +25,18 @@ body {
 
 .banner .banner-content h1 {
     width: 434px;
-height: 47px;
+    height: 47px;
 
-font-family: 'Raleway';
-font-style: normal;
-font-weight: 900;
-font-size: 40px;
-line-height: 47px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 47px;
 
-background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-background-clip: text;
-text-fill-color: transparent
+    background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
 
-}
+}   
