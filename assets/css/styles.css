@@ -14,4 +14,13 @@ body {
     height: 605px;
     left: 0px;
     top: 0px;
+    padding-top: 60px;
+    border-bottom: 1px solid #33A8DB80;
+}
+
+.banner .banner-content {
+    color: white;
+    margin: auto;
+    width: 600px;
+    text-align: center;
 }
