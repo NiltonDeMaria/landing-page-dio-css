@@ -87,3 +87,118 @@ margin: auto;
     height: 100%;
     object-fit: contain;
 }
+
+#course-content {
+  width: 800px;
+  text-align: center;
+}
+
+#course-content h2 {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  color: #33A8DB;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+section {
+  margin: 100px auto;
+}
+
+#course-content p {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+
+  color: #FFFFFF;
+}
+
+#course-content .modules-list {
+  margin: 24px 0;
+}
+
+#course-content .modules-list .module {
+  color: white;
+    width: 530px;
+    margin: 0 auto 24px;
+    border: 1px solid #33A8DB;
+    background-color: #252525;
+    padding: 16px;
+    border-radius: 100px;
+    box-shadow: inset -5px 6px 8px rgb(0 0 0 / 70%);
+}
+
+#course-content .modules-list .module span {
+  color: #33A8DB;
+}
+
+#transform-world {
+  height: 560px;
+  background-size: cover;
+  background-image: url(../images/woman-code.png);
+  background-attachment: fixed;
+  border-top: 1px solid #33A8DB80;
+  border-bottom: 1px solid #33A8DB80;
+  padding: 200px;
+}
+
+#transform-world p {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 47px;
+  text-transform: lowercase;
+  max-width: 250px;
+
+  color: #FFFFFF;
+
+  text-shadow: 3px 2px 0px #33A8DB;
+}
+
+#professional-challenges {
+  text-align: center;
+  width: 800px;
+}
+
+#professional-challenges h2 {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 38px;
+  text-align: center;
+  letter-spacing: 0.19em;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+
+  color: #33A8DB;
+}
+
+#professional-challenges img {
+  
+  width: 659px;
+  height: 429px;
+  left: 390px;
+  top: 1685px;
+  margin: 32px 0;
+}
+
+#professional-challenges p {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+
+  color: #FFFFFF;
+}
